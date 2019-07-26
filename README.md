@@ -1,4 +1,4 @@
-# App-Store-Screenshots
+# App Store Screenshots
 This guide is written by https://myhotpot.io. We make it easy to create attractive [App Store screenshots](https://myhotpot.io/templates/iphone_xs_max?s=github), [Google Play screenshots](https://myhotpot.io/templates/samsung_s9?s=github), Chrome Store screenshots, [app icons](https://myhotpot.io/templates/app_store_icon), and other graphics needed for apps, websites, and extensions.
 
 ## Overview
@@ -6,13 +6,15 @@ App screenshots are crucial for engaging users on the App Store, Google Play, an
 
 ## App Store Screenshot Sizes
 
-The following screenshot sizes are required for the App Store, although Apple has made this process eaiser for developers by allowing you to submit screenshots only for the iPhone XS Max and iPad Pro. The App Store will automatically downsize these to the smaller sizes required. If you're tight on time and budget, we recommend taking this approach rather than creating individual screenshots for each device. There is no proof device-specific screenshots influence download rates.
+The following screenshot sizes are required for the App Store, although Apple has thankfully simplified the process by allowing developers to submit screenshots only for the iPhone XS Max and iPad Pro. The App Store will automatically downsize these to the smaller sizes required. If you're tight on time and budget, we recommend this approach rather than creating individual screenshots for each device.  
+  
+There is no proof device-specific screenshots influence download rates.
 
 * iPhone Xs Max/XR (6.5-Inch Super Retina Display)
- * 1242 x 2688 pixels for portrait
- * 2688 x 1242 pixels for landscape
+  * 1242 x 2688 pixels for portrait
+  * 2688 x 1242 pixels for landscape
 
-* iPhone X/Xs (5.8-Inch Super Retina Display)
+* **iPhone X/Xs (5.8-Inch Super Retina Display)**
  * 1125 x 2436 pixels for portrait
 2436 x 1125 pixels for landscape
 Accepted formats: jpg, png
