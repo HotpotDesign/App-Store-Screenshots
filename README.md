@@ -10,32 +10,31 @@ The following screenshot sizes are required for the App Store, although Apple ha
   
 There is no proof device-specific screenshots influence download rates.
 
-* iPhone Xs Max/XR (6.5-Inch Super Retina Display)
+* **iPhone Xs Max/XR (6.5-Inch Super Retina Display)**
   * 1242 x 2688 pixels for portrait
   * 2688 x 1242 pixels for landscape
 
 * **iPhone X/Xs (5.8-Inch Super Retina Display)**
- * 1125 x 2436 pixels for portrait
-2436 x 1125 pixels for landscape
-Accepted formats: jpg, png
-Requirements for iPhone 6 Plus/7 Plus/8 Plus (5.5-Inch Retina Display)
-1242 x 2208 pixels for portrait
-2208 x 1242 pixels for landscape
-Accepted formats: jpg, png
-Requirements for iPhone 6/7/8 (4.7-Inch Retina Display)
-750 x 1334 pixels for portrait
-1334 x 750 pixels for landscape
-Accepted formats: jpg, png
-Requirements for iPhone 5 (4-Inch Retina Display)
-640 x 1096 pixels for portrait (without status bar)
-640 x 1136 pixels for portrait (full screen)
-1136 x 600 pixels for landscape (without status bar)
-1136 x 640 pixels for landscape (full screen)
-Accepted formats: jpg, png
-Minimum Requirements for iPad (12.9-Inch Retina Display)
-2048 x 2732 pixels for portrait
-2732 x 2048 pixels for landscape
-Accepted formats: jpg, png
-Requirements for Apple Watch
-312 x 390 pixels
-Accepted formats: jpg, png
+  * 1125 x 2436 pixels for portrait
+  * 2436 x 1125 pixels for landscape
+
+* **iPhone 6 Plus/7 Plus/8 Plus (5.5-Inch Retina Display)**
+  * 1242 x 2208 pixels for portrait
+  * 2208 x 1242 pixels for landscape
+
+* **iPhone 6/7/8 (4.7-Inch Retina Display)**
+  * 750 x 1334 pixels for portrait
+  * 1334 x 750 pixels for landscape
+
+* **iPhone 5 (4-Inch Retina Display)**
+  * 640 x 1096 pixels for portrait (without status bar)
+  * 640 x 1136 pixels for portrait (full screen)
+  * 1136 x 600 pixels for landscape (without status bar)
+  * 1136 x 640 pixels for landscape (full screen)
+
+* **iPad (12.9-Inch Retina Display)**
+  * 2048 x 2732 pixels for portrait
+  * 2732 x 2048 pixels for landscape
+
+* **Apple Watch**
+  * 312 x 390 pixels
