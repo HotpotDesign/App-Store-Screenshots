@@ -27,10 +27,8 @@ There is no proof device-specific screenshots influence download rates.
   * 1334 x 750 pixels for landscape
 
 * **iPhone 5 (4-Inch Retina Display)**
-  * 640 x 1096 pixels for portrait (without status bar)
-  * 640 x 1136 pixels for portrait (full screen)
-  * 1136 x 600 pixels for landscape (without status bar)
-  * 1136 x 640 pixels for landscape (full screen)
+  * 640 x 1136 pixels for portrait
+  * 1136 x 640 pixels for landscape
 
 * **iPad (12.9-Inch Retina Display)**
   * 2048 x 2732 pixels for portrait
