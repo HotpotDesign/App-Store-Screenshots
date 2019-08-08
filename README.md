@@ -32,11 +32,11 @@ The following screenshot sizes are required for the App Store, although Apple ha
   * 2048 x 2732 pixels - portrait
   * 2732 x 2048 pixels - landscape
   
-* **iPad Pro (11-inch)
+* **iPad Pro (11-inch)**
   * 1668 x 2388 pixels - portrait
   * 2388 x 1668 pixels - landscape
 
-* **iPad Air (10.5-Inch)
+* **iPad Air (10.5-Inch)**
   * 1668 x 2224 pixels - portrait
   * 2224 x 1668 pixels - landscape
 
