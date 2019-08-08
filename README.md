@@ -33,4 +33,9 @@ The following screenshot sizes are required for the App Store, although Apple ha
   * 2732 x 2048 pixels for landscape
 
 * **Apple Watch**
-  * 312 x 390 pixels
+  * 312 x 390 pixels (Series 3)
+  * 368 x 448 pixels (Series 4)
+
+* **Apple TV**
+  * 1920 x 1080 pixels
+  * 3840 x 2160 pixels
