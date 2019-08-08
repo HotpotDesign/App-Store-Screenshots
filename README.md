@@ -8,11 +8,11 @@ App screenshots are crucial for engaging users on the App Store, Google Play, an
 
 The following screenshot sizes are required for the App Store, although Apple has thankfully simplified the process by allowing developers to submit screenshots only for the iPhone XS Max and iPad Pro. The App Store will automatically downsize these to the smaller sizes required. If you're tight on time and budget, we recommend this approach rather than creating individual screenshots for each device. There is no proof device-specific screenshots influence download rates.
 
-* **iPhone Xs Max/XR (6.5-Inch Super Retina Display)**
+* **iPhone XS Max/XR (6.5-Inch Super Retina Display)**
   * 1242 x 2688 pixels for portrait
   * 2688 x 1242 pixels for landscape
 
-* **iPhone X/Xs (5.8-Inch Super Retina Display)**
+* **iPhone X/XS (5.8-Inch Super Retina Display)**
   * 1125 x 2436 pixels for portrait
   * 2436 x 1125 pixels for landscape
 
