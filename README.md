@@ -1,7 +1,9 @@
 # App Store Screenshots
 This guide is written by https://myhotpot.io. We make it easy to create attractive [App Store screenshots](https://myhotpot.io/templates/iphone_xs_max?s=github), [Google Play screenshots](https://myhotpot.io/templates/samsung_s9?s=github), Chrome Store screenshots, [app icons](https://myhotpot.io/templates/app_store_icon), and other graphics needed for apps, websites, and extensions.
 
-This is a companion piece to the one on [Google Play Screenshots](https://github.com/HotpotDesign/Google-Play-Screenshots).
+This is a companion article to the one on [Google Play Screenshots](https://github.com/HotpotDesign/Google-Play-Screenshots).
+
+The goal with these posts is to help developers understand the requirements and best practices for marketing apps on the App Store and Google Play.
 
 ## Overview
 App screenshots are crucial for engaging users on the App Store, Google Play, and the Chrome Store. With almost one million apps competing for user attention, studies show many consumers only browse for a few seconds before deciding whether to download an app.
