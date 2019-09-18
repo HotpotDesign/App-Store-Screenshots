@@ -5,6 +5,10 @@ This is a companion article to the one on [Google Play Screenshots](https://gith
 
 The goal with these posts is to help developers understand the requirements and best practices for marketing apps on the App Store and Google Play.
 
+## App Store Screenshot Examples
+
+[Click here](https://myhotpot.io/templates/iphone_xs_max?s=panabee_guide") to see examples of App Store screenshots from Hotpot Design. These examples include all iOS devices required for App Store inclusion, including the iPhone 8 Plus, iPhone XS Max, and iPad Pro.
+
 ## Overview
 App screenshots are crucial for engaging users on the App Store, Google Play, and the Chrome Store. With almost one million apps competing for user attention, studies show many consumers only browse for a few seconds before deciding whether to download an app.
 
