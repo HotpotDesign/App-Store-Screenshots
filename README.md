@@ -5,6 +5,8 @@ This is a companion article to the one on [Google Play Screenshots](https://gith
 
 The goal with these posts is to help developers understand the requirements and best practices for marketing apps on the App Store and Google Play.
 
+We cross-post here on GitHub for developer convenience.
+
 ## App Store Screenshot Examples
 
 [Click here](https://hotpot.ai/templates/iphone_xs_max?s=github) to see examples of App Store screenshots from Hotpot Design. These examples include all iOS devices required for App Store inclusion, including the iPhone 8 Plus, iPhone XS Max, and iPad Pro.
