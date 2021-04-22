@@ -1,5 +1,6 @@
 # App Store Screenshots
-This tutorial is written by https://hotpot.ai. Hotpot helps you create attractive [App Store screenshots](https://hotpot.ai/templates/iphone_xs_max?s=github), [Google Play screenshots](https://hotpot.ai/templates/samsung_s9?s=github), Chrome Store screenshots, [app icons](https://hotpot.ai/templates/app_store_icon), and other graphics for apps, extensions, and side projects.
+
+This tutorial is written by https://hotpot.ai. Hotpot helps you create attractive [App Store screenshots](https://hotpot.ai/app-store-screenshot-generator?s=github), [Google Play screenshots](https://hotpot.ai/app-store-screenshot-generator?s=github), Chrome Store screenshots, [app icons](https://hotpot.ai/templates/app-store-icon?s=github), and other graphics for apps, extensions, and side projects.
 
 This is a companion article to the one on [Google Play Screenshots](https://github.com/HotpotDesign/Google-Play-Screenshots).
 
@@ -9,9 +10,10 @@ We cross-post here on GitHub for developer convenience.
 
 ## App Store Screenshot Examples
 
-[Click here](https://hotpot.ai/templates/iphone_xs_max?s=github) to see examples of App Store screenshots from Hotpot Design. These examples include all iOS devices required for App Store inclusion, including the iPhone 8 Plus, iPhone XS Max, and iPad Pro.
+[Click here](https://hotpot.ai/app-store-screenshot-generator?s=github) to see examples of App Store screenshots from Hotpot Design. These examples include all iOS devices required for App Store inclusion, including the iPhone 8 Plus, iPhone XS Max, and iPad Pro.
 
 ## Overview
+
 App screenshots are crucial for engaging users on the App Store, Google Play, and the Chrome Store. With almost one million apps competing for user attention, studies show many consumers only browse for a few seconds before deciding whether to download an app.
 
 ## App Store Screenshot Sizes
